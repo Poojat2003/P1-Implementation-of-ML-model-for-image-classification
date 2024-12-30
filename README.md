@@ -1,1 +1,1 @@
-# P1-Implementation-of-ML-model-for-image-classification
+This repository demonstrates the implementation of a machine learning model for image classification. The project involves data preprocessing, feature extraction, model training, evaluation, and deployment for classifying images into predefined categories# P1-Implementation-of-ML-model-for-image-classification
